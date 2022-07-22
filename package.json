@@ -1,0 +1,19 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Hello! package.json'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasou-pt/markdown-editor.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tasou-pt/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/tasou-pt/markdown-editor#readme"
+}
